@@ -2,6 +2,7 @@ var cacheName = 'Lessons';
 var cacheFiles = [
     'index.html',
     'lessons.js',
+    'style.css',
     'lesson.webmanifest',
     'images/app.png',
     'images/icon-192.png',
